@@ -1,9 +1,10 @@
 # QTChess Project
 
 ## Table of contents
-1. Introduction  
-1.1 video demo
-2. Technologies in this project
+1. [Introduction](#introduction)  
+1.1 [video demo](#video-demo)
+2. [Technologies in this project](#technologies)
+3. [Contact](#contact)
 
 
 ## Introduction
